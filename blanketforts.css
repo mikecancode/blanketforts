@@ -5,3 +5,14 @@ h1 {
 p {
     font-family: verdana;
 }
+
+img {
+    display: inline-block;
+    margin: 3%;
+    width: 25%;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
