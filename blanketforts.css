@@ -1,9 +1,32 @@
+html { 
+  background: url(background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 h1 {
     font-family: helvetica;
+    color: white;
+    text-align: center;
 }
 
 p {
     font-family: verdana;
+}
+
+.pic {
+    text-align: center;
+}
+
+#descrip {
+    color: white;    
+}
+
+#instr {
+    text-align: center;
+    color: white;
 }
 
 img {
