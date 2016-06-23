@@ -20,13 +20,14 @@ p {
     text-align: center;
 }
 
-#descrip {
+.text {
     color: white;    
+    background-color: rgba(62, 58, 126, 0.5);
+    padding: 10px;
 }
 
 #instr {
     text-align: center;
-    color: white;
 }
 
 img {
