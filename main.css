@@ -1,5 +1,5 @@
 html { 
-  background: url(background.jpg) no-repeat center center fixed; 
+  background: url(images/background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -24,10 +24,6 @@ p {
     color: white;    
     background-color: rgba(62, 58, 126, 0.5);
     padding: 10px;
-}
-
-#instr {
-    text-align: center;
 }
 
 img {
