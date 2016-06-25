@@ -9,7 +9,6 @@ html {
 h1 {
     font-family: helvetica;
     color: white;
-    text-align: center;
 }
 
 p {
@@ -22,8 +21,23 @@ p {
 
 .text {
     color: white;    
-    background-color: rgba(62, 58, 126, 0.5);
     padding: 10px;
+    text-align: center;
+}
+
+.synopsis-text{
+    color: white;    
+    padding: 15px;
+    background-color: rgba(62, 58, 150, 0.7);
+    -moz-border-radius: 25px; 
+    border-radius: 25px;
+}
+
+.centered-text {
+    background-color: rgba(62, 58, 150, 0.7);
+    padding: 20px;
+    -moz-border-radius: 15px; 
+    border-radius: 15px;
 }
 
 img {
