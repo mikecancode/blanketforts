@@ -42,6 +42,7 @@ p {
 
 img {
     display: inline-block;
+    position: relative;
     margin: 3%;
     width: 25%;
 }
@@ -49,4 +50,3 @@ img {
 .img-circle {
     border-radius: 50%;
 }
-
